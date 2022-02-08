@@ -1,3 +1,3 @@
 # Solutions
 
-This repo contains kata solutions which I have passed at code-wars
+This repo contains kata solutions that I have passed at code-wars
